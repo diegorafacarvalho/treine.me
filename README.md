@@ -6,4 +6,4 @@ No link abaixo você encontra o layout do projeto web. Lembrando que você preci
 
 - [Layout Web](https://www.figma.com/file/RbkbQWbCXvSH5EgA3OuaeX/Explorer---Projeto-02-(Copy)?node-id=1%3A5)
 
-Acesse o projeto >> [link] https://diegorafacarvalho.github.io/treine.me/
+Acesse o projeto >>  https://diegorafacarvalho.github.io/treine.me/
