@@ -34,7 +34,6 @@ O Habit é um app para ajudar a rastrear os hábitos.
 
 [- [Visite o Projeto Online](https://diegorafacarvalho.github.io/treine.me/)
 ]
-## 🔖 Layout
 
 ## 🔖 Layout
 
