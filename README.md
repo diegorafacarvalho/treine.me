@@ -36,7 +36,12 @@ O Habit é um app para ajudar a rastrear os hábitos.
 ]
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/N4fR6GVDysoS4mSBk9yCET/Explorer---Projeto-01-(Copy)?type=design&t=CFqgPTjBllIBxXWs-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+## 🔖 Layout
+
+No link abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+- [Layout Web](https://www.figma.com/file/RbkbQWbCXvSH5EgA3OuaeX/Explorer---Projeto-02-(Copy)?node-id=1%3A5)
+
 
 ## :memo: Licença
 
